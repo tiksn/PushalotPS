@@ -1,1 +1,1 @@
-# PushalotPS
+# Pushalot PowerShell Module
